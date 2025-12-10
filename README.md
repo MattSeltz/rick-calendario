@@ -20,6 +20,6 @@ Permite al personal administrativo optimizar la agenda, **reducir los no-shows**
 
 ## 🖼️ Galería
 
-| Vista Principal (Calendario Semanal) | Formulario de Cita | Vista Móvil (Agenda) |
-| :---: | :---: | :---: |
-| [Captura 1](/captura1.PNG) | [Captura 2](/captura2.PNG) | [Captura 3](/captura3.PNG) |
+![Captura 1](/captura1.PNG) 
+![Captura 2](/captura2.PNG) 
+![Captura 3](/captura3.PNG) 
