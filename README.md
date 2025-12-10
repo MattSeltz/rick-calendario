@@ -1,1 +1,25 @@
-# rick-calendario
+# 🐶 Vet-Scheduler: Plataforma de Gestión de Turnos para Veterinarias
+
+Vet-Scheduler es una solución de gestión de citas desarrollada a medida para la **Clínica Veterinaria** de Rick.
+
+Permite al personal administrativo optimizar la agenda, **reducir los no-shows** con recordatorios automatizados y centralizar la información de pacientes (mascotas) y dueños en un solo sistema.
+
+## 🚀 Características
+
+* **Calendario Interactivo:** Vistas por día, semana y mes con gestión de disponibilidad de veterinarios y salas.
+* **Perfiles de Pacientes:** Base de datos para el historial y contacto de dueños y mascotas.
+* **Diseño Responsivo:** Usabilidad completa en escritorio, *tablet* y móvil.
+
+## 🛠️ Tecnologías
+
+| Rol | Tecnología | Detalle |
+| :--- | :--- | :--- |
+| **Frontend** | [NextJS] | Interfaz de usuario dinámica. |
+| **Backend** | [NestJS] | API RESTful. |
+| **Base de Datos** | [PostgreSQL] | Persistencia de datos. |
+
+## 🖼️ Galería
+
+| Vista Principal (Calendario Semanal) | Formulario de Cita | Vista Móvil (Agenda) |
+| :---: | :---: | :---: |
+| [Captura 1](ruta/a/imagen1.png) | [Captura 2](ruta/a/imagen2.png) | [Captura 3](ruta/a/imagen3.png) |
