@@ -14,12 +14,12 @@ Permite al personal administrativo optimizar la agenda, **reducir los no-shows**
 
 | Rol | Tecnología | Detalle |
 | :--- | :--- | :--- |
-| **Frontend** | [NextJS] | Interfaz de usuario dinámica. |
-| **Backend** | [NestJS] | API RESTful. |
-| **Base de Datos** | [PostgreSQL] | Persistencia de datos. |
+| **Frontend** | NextJS | Interfaz de usuario dinámica. |
+| **Backend** | NestJS | API RESTful. |
+| **Base de Datos** | PostgreSQL | Persistencia de datos. |
 
 ## 🖼️ Galería
 
 | Vista Principal (Calendario Semanal) | Formulario de Cita | Vista Móvil (Agenda) |
 | :---: | :---: | :---: |
-| [Captura 1](ruta/a/imagen1.png) | [Captura 2](ruta/a/imagen2.png) | [Captura 3](ruta/a/imagen3.png) |
+| [Captura 1](/captura1.PNG) | [Captura 2](/captura2.PNG) | [Captura 3](/captura3.PNG) |
